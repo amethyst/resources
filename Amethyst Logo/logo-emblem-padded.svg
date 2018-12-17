@@ -1,0 +1,29 @@
+<svg viewBox="0 0 32 32" class="logo-emblem">
+  <defs>
+    <linearGradient id="logo-gradient-standard" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0%" style="stop-color:#7f41ef;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#4f29d0;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="logo-gradient-white" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0%" style="stop-color:#fff;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#fff;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="logo-pride" x1="0.1" y1="0.9" x2="0.9" y2="0.1">
+      <stop offset="0%" style="stop-color:#7f41ef;stop-opacity:1" />
+      <stop offset="16.6%" style="stop-color:#7f41ef;stop-opacity:1" />
+      <stop offset="16.6%" style="stop-color:#41a5ef;stop-opacity:1" />
+      <stop offset="33.3%" style="stop-color:#41a5ef;stop-opacity:1" />
+      <stop offset="33.3%" style="stop-color:#63ac56;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#63ac56;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#f8dd56;stop-opacity:1" />
+      <stop offset="66.6%" style="stop-color:#f8dd56;stop-opacity:1" />
+      <stop offset="66.6%" style="stop-color:#f7a207;stop-opacity:1" />
+      <stop offset="83.3%" style="stop-color:#f7a207;stop-opacity:1" />
+      <stop offset="83.3%" style="stop-color:#d92929;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#d92929;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <path
+     d="M 15.999998,0.5000067 A 15.499999,15.499999 0 0 0 0.49999975,16 15.499999,15.499999 0 0 0 15.999998,31.499993 15.499999,15.499999 0 0 0 31.5,16 15.499999,15.499999 0 0 0 15.999998,0.5000067 Z m -1.759767,3.050797 3.785159,2.402343 0.636718,4.011704 -1.308593,0.8808573 -1.050784,9.236333 -2.378907,1.066394 -1.582029,-1.998048 -1.087888,-12.1796773 z m 7.935549,4.767572 2.912108,4.0038803 -3.564451,12.687533 -3.750001,-5.585953 -0.859374,0.386722 0.980466,-8.636712 3.232422,-2.1738333 z M 11.140624,18.56252 13.53125,21.576164 13.105468,27.029304 10.80078,26.634759 8.1640612,19.533216 Z m 6.42578,1.585927 3.441408,5.126967 -4.728518,2.298822 -2.607419,-0.447269 0.423827,-5.421884 z"
+     style="fill:url(#logo-gradient-standard);" />
+</svg>
